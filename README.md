@@ -1,4 +1,4 @@
-# N予備校で作った掲示板
+# N予備校で作った掲示板です
 ### [こちらからアクセスできます](https://secret-board.herokuapp.com/posts)
 
 ユーザー名:guest1
